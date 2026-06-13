@@ -30,10 +30,10 @@ redirect_from:
 
 # 🔥 News
 
-* *2026.06*:  🎉🎉 Our paper **“DRVFuzz: Data-Sensitive RISC-V CPU Fuzzing”** was accepted by **USENIX Security 2026**!
-* *2026.03*:  🎉🎉 Our paper **“RISCSmith: Finding RISC-V CPU Bugs via Rich Instruction Construction and On-the-fly Differential Analysis”** was accepted by **DAC 2026**!
-* *2026.01*:  🎉🎉 Our paper **“VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation”** was accepted by **OOPSLA 2026**!
-* *2025.11*:  🎉🎉 Our paper **“DualFuzz: Detecting Vulnerability in Wi-Fi NICs through Dual-Directional Fuzzing”** received the **Distinguished Paper Award** at **ASE 2025**!
+* *2026.06*:  🎉🎉 Our paper “DRVFuzz: Data-Sensitive RISC-V CPU Fuzzing” was accepted by **USENIX Security 2026**!
+* *2026.03*:  🎉🎉 Our paper “RISCSmith: Finding RISC-V CPU Bugs via Rich Instruction Construction and On-the-fly Differential Analysis” was accepted by **DAC 2026**!
+* *2026.01*:  🎉🎉 Our paper “VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation” was accepted by **OOPSLA 2026**!
+* *2025.11*:  🎉🎉 Our paper “DualFuzz: Detecting Vulnerability in Wi-Fi NICs through Dual-Directional Fuzzing” received the **Distinguished Paper Award** at **ASE 2025**!
 
 
 
@@ -79,23 +79,19 @@ redirect_from:
     A Survey of Dynamic Testing Methods for Distributed Systems,
     *Journal of Software*, 2024, 32(7): 1–37. In Chinese. (**JoS**, CCF-A)
 
-11. Yu Jiang, Jie Liang, Fuchen Ma, **Yuanliang Chen**, Chijin Zhou, Yuheng Shen, Zhiyong Wu, Jingzhou Fu, Mingzhe Wang, Shanshan Li, Quan Zhang:
-    When Fuzzing Meets LLMs: Challenges and Opportunities,
-    *ACM International Conference on the Foundations of Software Engineering, Industry, Visions, and Reflections Track*, 2024. (**FSE**, CCF-A)
-
-12. Fuchen Ma, **Yuanliang Chen**, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, Huizhong Li:
+11. Fuchen Ma, **Yuanliang Chen**, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, Huizhong Li:
     Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos,
     *ACM SIGSAC Conference on Computer and Communications Security*, 2023. (**CCS**, CCF-A)
 
-13. Fuchen Ma, **Yuanliang Chen**, Meng Ren, Yuanhang Zhou, Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun:
+12. Fuchen Ma, **Yuanliang Chen**, Meng Ren, Yuanhang Zhou, Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun:
     LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols,
     *Network and Distributed System Security Symposium*, 2023. (**NDSS**, CCF-A)
 
-14. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, Jiaguang Sun:
+13. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, Jiaguang Sun:
     Tyr: Finding Consensus Failure Bugs in Blockchain Systems with Behaviour Divergent Model,
     *IEEE Symposium on Security and Privacy*, 2023. (**S&P**, CCF-A)
 
-15. **Yuanliang Chen**, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, Zhuo Su:
+14. **Yuanliang Chen**, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, Zhuo Su:
     EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers,
     *USENIX Security Symposium*, 2019. (**Security**, CCF-A)
 
