@@ -46,7 +46,7 @@ redirect_from:
 
 2. Yu Jiang, Wenhuan Liu, Fuchen Ma, Yuheng Shen, **Yuanliang Chen**<sup>✉</sup>, Lei Zhang, He Li, Quan Zhang, Chijin Zhou:
    USEC: A User-Requirement-Driven Mandatory Access Control Framework for Operating Systems,
-   *USENIX Security Symposium*, 2026. (**Security**, CCF-A)
+   *USENIX Symposium on Operating Systems Design and Implementation*, 2026. (**OSDI**, CCF-A)
 
 3. Xudong Zhang, **Yuanliang Chen**<sup>✉</sup>, Zehong Yu, Zhen Yan, Fuchen Ma, Dalong Shi, Yu Jiang:
    RISCSmith: Finding RISC-V CPU Bugs via Rich Instruction Construction and On-the-fly Differential Analysis,
