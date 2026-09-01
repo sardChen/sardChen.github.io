@@ -30,6 +30,8 @@ redirect_from:
 
 # 🔥 News
 
+
+* *2026.07*:  🎉🎉 Our paper "WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model” was accepted by **ASE 2026**! 
 * *2026.06*:  🎉🎉 Our paper “USEC: A User-Requirement-Driven Mandatory Access Control Framework for Operating Systems” was accepted by **OSDI 2026**!
 * *2026.06*:  🎉🎉 Our paper “DRVFuzz: Data-Sensitive RISC-V CPU Fuzzing” was accepted by **USENIX Security 2026**!
 * *2026.03*:  🎉🎉 Our paper “RISCSmith: Finding RISC-V CPU Bugs via Rich Instruction Construction and On-the-fly Differential Analysis” was accepted by **DAC 2026**!
@@ -39,6 +41,10 @@ redirect_from:
 
 
 # 📝 Selected Publications
+
+1. **Yuanliang Chen**, Fuchen Ma, Taotao Gu, Yu Jiang:
+   WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model,
+   *IEEE/ACM International Conference on Automated Software Engineering*, 2026. (**ASE**, CCF-A)
 
 1. Zehong Yu, **Yuanliang Chen**<sup>✉</sup>, Zhen Yan, Xudong Zhang, Zhensheng Xian, Yu Jiang:
    DRVFuzz: Data-Sensitive RISC-V CPU Fuzzing,
