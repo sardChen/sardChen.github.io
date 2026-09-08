@@ -46,63 +46,68 @@ redirect_from:
    WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model,
    *IEEE/ACM International Conference on Automated Software Engineering*, 2026. (**ASE**, CCF-A)
 
-1. Zehong Yu, **Yuanliang Chen**<sup>✉</sup>, Zhen Yan, Xudong Zhang, Zhensheng Xian, Yu Jiang:
+2. Zehong Yu, **Yuanliang Chen**<sup>✉</sup>, Zhen Yan, Xudong Zhang, Zhensheng Xian, Yu Jiang:
    DRVFuzz: Data-Sensitive RISC-V CPU Fuzzing,
    *USENIX Security Symposium*, 2026. (**Security**, CCF-A)
 
-2. Yu Jiang, Wenhuan Liu, Fuchen Ma, Yuheng Shen, **Yuanliang Chen**<sup>✉</sup>, Lei Zhang, He Li, Quan Zhang, Chijin Zhou:
+3. Yu Jiang, Wenhuan Liu, Fuchen Ma, Yuheng Shen, **Yuanliang Chen**<sup>✉</sup>, Lei Zhang, He Li, Quan Zhang, Chijin Zhou:
    USEC: A User-Requirement-Driven Mandatory Access Control Framework for Operating Systems,
    *USENIX Symposium on Operating Systems Design and Implementation*, 2026. (**OSDI**, CCF-A)
 
-3. Xudong Zhang, **Yuanliang Chen**<sup>✉</sup>, Zehong Yu, Zhen Yan, Fuchen Ma, Dalong Shi, Yu Jiang:
+4. Xudong Zhang, **Yuanliang Chen**<sup>✉</sup>, Zehong Yu, Zhen Yan, Fuchen Ma, Dalong Shi, Yu Jiang:
    RISCSmith: Finding RISC-V CPU Bugs via Rich Instruction Construction and On-the-fly Differential Analysis,
    *ACM/IEEE Design Automation Conference*, 2026. (**DAC**, CCF-A)
 
-4. Juanen Li, Peng Qian, Guanyan Li, Rui Wang, Peixin Wang, Zhiqing Tang, Fuchen Ma, **Yuanliang Chen**<sup>✉</sup>, Lun Zhang:
+5. Juanen Li, Peng Qian, Guanyan Li, Rui Wang, Peixin Wang, Zhiqing Tang, Fuchen Ma, **Yuanliang Chen**<sup>✉</sup>, Lun Zhang:
    EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models,
    *ACM International Conference on Software Engineering*, 2026. (**ICSE**, CCF-A)
 
-5. Zhen Yan, **Yuanliang Chen**<sup>✉</sup>, Fuchen Ma, Zehong Yu, Dalong Shi, Yu Jiang:
+6. Zhen Yan, **Yuanliang Chen**<sup>✉</sup>, Fuchen Ma, Zehong Yu, Dalong Shi, Yu Jiang:
    VeriEQ: Finding Verilog Simulators and Synthesizers Bugs with Equivalence Circuit Transformation,
    *ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications*, 2026. (**OOPSLA**, CCF-A)
 
-6. Fuchen Ma, **Yuanliang Chen**<sup>✉</sup>, Zhen Yan, Yuanhang Zhou, Yu Jiang, Mingchao Wan:
+7. Fuchen Ma, **Yuanliang Chen**<sup>✉</sup>, Zhen Yan, Yuanhang Zhou, Yu Jiang, Mingchao Wan:
    Fuzzing Enterprise-Grade Blockchain Systems: Industrial Practice and Solutions,
    *ACM European Systems Conference*, 2026. (**EuroSys**, CCF-A)
 
-7. **Yuanliang Chen**, Fuchen Ma, Yanyang Zhao, Yuanyi Li, Yu Jiang:
+8. **Yuanliang Chen**, Fuchen Ma, Yanyang Zhao, Yuanyi Li, Yu Jiang:
    DualFuzz: Detecting Vulnerability in Wi-Fi NICs through Dual-Directional Fuzzing,
    *IEEE/ACM International Conference on Automated Software Engineering*, 2025. (**ASE**, Distinguished Paper Award, CCF-A)
 
-8. **Yuanliang Chen**, Fuchen Ma, Yanyang Zhao, Yuanyi Li, Yu Jiang:
+9. **Yuanliang Chen**, Fuchen Ma, Yanyang Zhao, Yuanyi Li, Yu Jiang:
    CAFault: Enhance Fault Injection Technique in Practical Distributed Systems via Abundant Fault-Dependent Configurations,
    *USENIX Annual Technical Conference*, 2025. (**ATC**, CCF-A)
 
-9. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Zhen Yan, Qing Liao, Yu Jiang:
+10. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Zhen Yan, Qing Liao, Yu Jiang:
    Themis: Finding Imbalance Failures in Distributed File Systems via a Load Variance Model,
    *ACM European Systems Conference*, 2025. (**EuroSys**, CCF-A)
 
-10. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Ming Gu, Qing Liao, Yu Jiang:
+11.  Juanen Li, Peng Qian, Guanyan Li, Rui Wang, Peixin Wang, Zhiqing Tang, Fuchen Ma, **Yuanliang Chen**<sup>✉</sup>:
+   EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models,
+   *ACM European Systems Conference*, 2025. (**ICSE**, CCF-A)
+
+
+12. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Ming Gu, Qing Liao, Yu Jiang:
    Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay,
    *IEEE Symposium on Security and Privacy*, 2024. (**S&P**, CCF-A)
 
-11. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Zhen Yan, Yu Jiang, Jiaguang Sun:
+13. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Zhen Yan, Yu Jiang, Jiaguang Sun:
     A Survey of Dynamic Testing Methods for Distributed Systems,
     *Journal of Software*, 2024, 32(7): 1–37. In Chinese. (**JoS**, CCF-A)
 
-12. Fuchen Ma, **Yuanliang Chen**, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, Huizhong Li:
+14. Fuchen Ma, **Yuanliang Chen**, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, Huizhong Li:
     Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos,
     *ACM SIGSAC Conference on Computer and Communications Security*, 2023. (**CCS**, CCF-A)
 
-13. Fuchen Ma, **Yuanliang Chen**, Meng Ren, Yuanhang Zhou, Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun:
+15. Fuchen Ma, **Yuanliang Chen**, Meng Ren, Yuanhang Zhou, Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun:
     LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols,
     *Network and Distributed System Security Symposium*, 2023. (**NDSS**, CCF-A)
 
-14. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, Jiaguang Sun:
+16. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, Jiaguang Sun:
     Tyr: Finding Consensus Failure Bugs in Blockchain Systems with Behaviour Divergent Model,
     *IEEE Symposium on Security and Privacy*, 2023. (**S&P**, CCF-A)
 
-15. **Yuanliang Chen**, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, Zhuo Su:
+17. **Yuanliang Chen**, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, Zhuo Su:
     EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers,
     *USENIX Security Symposium*, 2019. (**Security**, CCF-A)
 
