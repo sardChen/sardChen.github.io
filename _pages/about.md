@@ -82,32 +82,27 @@ redirect_from:
    Themis: Finding Imbalance Failures in Distributed File Systems via a Load Variance Model,
    *ACM European Systems Conference*, 2025. (**EuroSys**, CCF-A)
 
-11.  Juanen Li, Peng Qian, Guanyan Li, Rui Wang, Peixin Wang, Zhiqing Tang, Fuchen Ma, **Yuanliang Chen**<sup>✉</sup>:
-   EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models,
-   *ACM European Systems Conference*, 2025. (**ICSE**, CCF-A)
-
-
-12. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Ming Gu, Qing Liao, Yu Jiang:
+11. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Ming Gu, Qing Liao, Yu Jiang:
    Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay,
    *IEEE Symposium on Security and Privacy*, 2024. (**S&P**, CCF-A)
 
-13. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Zhen Yan, Yu Jiang, Jiaguang Sun:
+12. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Zhen Yan, Yu Jiang, Jiaguang Sun:
     A Survey of Dynamic Testing Methods for Distributed Systems,
     *Journal of Software*, 2024, 32(7): 1–37. In Chinese. (**JoS**, CCF-A)
 
-14. Fuchen Ma, **Yuanliang Chen**, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, Huizhong Li:
+13. Fuchen Ma, **Yuanliang Chen**, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, Huizhong Li:
     Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos,
     *ACM SIGSAC Conference on Computer and Communications Security*, 2023. (**CCS**, CCF-A)
 
-15. Fuchen Ma, **Yuanliang Chen**, Meng Ren, Yuanhang Zhou, Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun:
+14. Fuchen Ma, **Yuanliang Chen**, Meng Ren, Yuanhang Zhou, Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun:
     LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols,
     *Network and Distributed System Security Symposium*, 2023. (**NDSS**, CCF-A)
 
-16. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, Jiaguang Sun:
+15. **Yuanliang Chen**, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, Jiaguang Sun:
     Tyr: Finding Consensus Failure Bugs in Blockchain Systems with Behaviour Divergent Model,
     *IEEE Symposium on Security and Privacy*, 2023. (**S&P**, CCF-A)
 
-17. **Yuanliang Chen**, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, Zhuo Su:
+16. **Yuanliang Chen**, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, Zhuo Su:
     EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers,
     *USENIX Security Symposium*, 2019. (**Security**, CCF-A)
 
