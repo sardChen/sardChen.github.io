@@ -30,7 +30,7 @@ redirect_from:
 
 # 🔥 News
 
-
+* *2026.09*:  🎉🎉 Our paper "CaMFuzz: Testing Distributed Training Frameworks via Abundant Configuration–Model Interactions” was accepted by **Eurosys 2027**! 
 * *2026.07*:  🎉🎉 Our paper "WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model” was accepted by **ASE 2026**! 
 * *2026.06*:  🎉🎉 Our paper “USEC: A User-Requirement-Driven Mandatory Access Control Framework for Operating Systems” was accepted by **OSDI 2026**!
 * *2026.06*:  🎉🎉 Our paper “DRVFuzz: Data-Sensitive RISC-V CPU Fuzzing” was accepted by **USENIX Security 2026**!
@@ -41,6 +41,12 @@ redirect_from:
 
 
 # 📝 Selected Publications
+
+
+1. Zhen Yan, **Yuanliang Chen**<sup>✉</sup>, Fuchen Ma, Ming Yan, Zehong Yu, Zhensheng Xian, Yu Jiang:
+   CaMFuzz: Testing Distributed Training Frameworks via Abundant Configuration–Model Interactions,
+   *ACM European Systems Conference*, 2027. (**Eurosys**, CCF-A)
+
 
 1. **Yuanliang Chen**, Fuchen Ma, Taotao Gu, Yu Jiang:
    WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model,
