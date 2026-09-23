@@ -30,6 +30,7 @@ redirect_from:
 
 # 🔥 News
 
+* *2026.09*:  🎉🎉 Our paper "TrapFuzz: Understanding and Detecting Recovery Failure Issues in Multi-Trap Mechanisms of RISC-V CPUs” was accepted by **Asplos 2027**! 
 * *2026.09*:  🎉🎉 Our paper "CaMFuzz: Testing Distributed Training Frameworks via Abundant Configuration–Model Interactions” was accepted by **Eurosys 2027**! 
 * *2026.07*:  🎉🎉 Our paper "WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model” was accepted by **ASE 2026**! 
 * *2026.06*:  🎉🎉 Our paper “USEC: A User-Requirement-Driven Mandatory Access Control Framework for Operating Systems” was accepted by **OSDI 2026**!
@@ -42,6 +43,10 @@ redirect_from:
 
 # 📝 Selected Publications
 
+1. **Yuanliang Chen**, Xudong Zhang,  Zehong Yu, Zhen Yan, Fuchen Ma, Yu Jiang:
+   TrapFuzz: Understanding and Detecting Recovery Failure Issues in Multi-Trap Mechanisms of RISC-V CPUs,
+   *ACM International Conference on Architectural Support for Programming Languages and Operating Systems*, 2027. (**Asplos**, CCF-A)
+   
 
 1. Zhen Yan, **Yuanliang Chen**<sup>✉</sup>, Fuchen Ma, Ming Yan, Zehong Yu, Zhensheng Xian, Yu Jiang:
    CaMFuzz: Testing Distributed Training Frameworks via Abundant Configuration–Model Interactions,
